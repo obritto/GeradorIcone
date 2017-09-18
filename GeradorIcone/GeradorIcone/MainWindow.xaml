@@ -1,0 +1,21 @@
+﻿<Window x:Class="GeradorIcone.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:GeradorIcone"
+        mc:Ignorable="d"
+       Title="GERADOR ÍCONE/SPLASH" Height="250.666" Width="486.333" WindowStyle="ToolWindow">
+    <Grid>
+        <TextBlock HorizontalAlignment="Left" Margin="10,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontWeight="Bold" Foreground="Navy" FontSize="20"><Run Text="GERADOR ÍCONE/SPLA"/><Run Text="S"/><Run Text="H"/></TextBlock>
+        <Button x:Name="btnSelIcone" Content="Selecionar Ícone" HorizontalAlignment="Left" Margin="12,47,0,0" VerticalAlignment="Top" Width="148" Height="41" FontWeight="Bold" FontSize="14" Foreground="Purple" Click="btnSelIcone_Click"/>
+        <Button x:Name="btnSelSplash" Content="Selecionar Splash" HorizontalAlignment="Left" Margin="165,47,0,0" VerticalAlignment="Top" Width="148" Height="41" FontSize="14" Foreground="Purple" FontWeight="Bold" Click="btnSelSplash_Click"/>
+        <TextBlock HorizontalAlignment="Left" Margin="6,0,0,55" TextWrapping="Wrap" Text="CAMINHO SAÍDA:" VerticalAlignment="Bottom"/>
+        <TextBox x:Name="txtPath" HorizontalAlignment="Left" Height="23" Margin="6,0,0,27" TextWrapping="Wrap" VerticalAlignment="Bottom" Width="331" FontSize="14" IsReadOnly="True" Text="c:\temp\"/>
+        <Button x:Name="btnSelPath" Content="Selecionar diretório" HorizontalAlignment="Left" Margin="342,0,0,27" VerticalAlignment="Bottom" Width="122" Height="23" Click="btnSelPath_Click"/>
+        <CheckBox x:Name="chkIOS" Content="iOS" HorizontalAlignment="Left" Margin="12,106,0,0" VerticalAlignment="Top" FontSize="16" FontWeight="Bold" IsChecked="True"/>
+        <CheckBox x:Name="chkDroid" Content="Android" HorizontalAlignment="Left" Margin="72,106,0,0" VerticalAlignment="Top" FontSize="16" FontWeight="Bold" IsChecked="True"/>
+        <TextBlock HorizontalAlignment="Left" Margin="6,0,0,6" TextWrapping="Wrap" Text="Idealizado por Tiago Britto (youtube.com/ata275)" VerticalAlignment="Bottom" Foreground="Gray"/>
+
+    </Grid>
+</Window>

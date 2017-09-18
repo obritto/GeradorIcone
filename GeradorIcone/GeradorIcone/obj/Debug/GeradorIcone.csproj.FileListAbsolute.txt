@@ -1,0 +1,16 @@
+C:\Projetos\GeradorIcon\GeradorIcone\GeradorIcone\GeradorIcone\bin\Debug\GeradorIcone.exe.config
+C:\Projetos\GeradorIcon\GeradorIcone\GeradorIcone\GeradorIcone\bin\Debug\GeradorIcone.exe
+C:\Projetos\GeradorIcon\GeradorIcone\GeradorIcone\GeradorIcone\bin\Debug\GeradorIcone.pdb
+C:\Projetos\GeradorIcon\GeradorIcone\GeradorIcone\GeradorIcone\bin\Debug\System.Drawing.Primitives.dll
+C:\Projetos\GeradorIcon\GeradorIcone\GeradorIcone\GeradorIcone\obj\Debug\GeradorIcone.csprojResolveAssemblyReference.cache
+C:\Projetos\GeradorIcon\GeradorIcone\GeradorIcone\GeradorIcone\obj\Debug\MainWindow.g.cs
+C:\Projetos\GeradorIcon\GeradorIcone\GeradorIcone\GeradorIcone\obj\Debug\App.g.cs
+C:\Projetos\GeradorIcon\GeradorIcone\GeradorIcone\GeradorIcone\obj\Debug\GeradorIcone_MarkupCompile.cache
+C:\Projetos\GeradorIcon\GeradorIcone\GeradorIcone\GeradorIcone\obj\Debug\GeradorIcone_MarkupCompile.lref
+C:\Projetos\GeradorIcon\GeradorIcone\GeradorIcone\GeradorIcone\obj\Debug\MainWindow.baml
+C:\Projetos\GeradorIcon\GeradorIcone\GeradorIcone\GeradorIcone\obj\Debug\GeradorIcone.g.resources
+C:\Projetos\GeradorIcon\GeradorIcone\GeradorIcone\GeradorIcone\obj\Debug\GeradorIcone.Properties.Resources.resources
+C:\Projetos\GeradorIcon\GeradorIcone\GeradorIcone\GeradorIcone\obj\Debug\GeradorIcone.csproj.GenerateResource.Cache
+C:\Projetos\GeradorIcon\GeradorIcone\GeradorIcone\GeradorIcone\obj\Debug\GeradorIcone.csproj.CoreCompileInputs.cache
+C:\Projetos\GeradorIcon\GeradorIcone\GeradorIcone\GeradorIcone\obj\Debug\GeradorIcone.exe
+C:\Projetos\GeradorIcon\GeradorIcone\GeradorIcone\GeradorIcone\obj\Debug\GeradorIcone.pdb
